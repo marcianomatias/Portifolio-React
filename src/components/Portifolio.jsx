@@ -10,11 +10,11 @@ import Reveal from './Reveal';
 const projects = [
     {
       img: project1,
-      title: "Project #1",
-      description: "UI for frontend development using React.",
+      title: "Delivery",
+      description: "Projeto em desenvolvimento, frontend, backend",
       links: {
-        site: "#",
-        github: "#",
+        site: "https://delivery-taupe-psi.vercel.app/",
+        github: "https://github.com/marcianomatias/delivery",
       },
     },
     {
